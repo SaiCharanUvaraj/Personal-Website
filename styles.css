@@ -27,8 +27,8 @@ body
 }
 .hi
 {
-    padding-top: 10%;
-    font-size: 1vw;
+    padding-top: 5%;
+    font-size: 2vw;
 }
 .name
 {
@@ -51,7 +51,7 @@ body
     margin-left: 20%;
     border-radius: 30px;
     border:1px solid black;
-    transition: 0.5s;
+    transition: 0.8s;
 }
 .profile-button:hover
 {
@@ -63,7 +63,7 @@ body
     margin-left: 20%;
     border-radius: 30px;
     border:1px solid white;
-    transition:0.5s;
+    transition:0.8s;
 }
 .profile-button:active
 {
@@ -76,5 +76,4 @@ body
     border-radius: 30px;
     border:1px solid white;
 }
-
 
