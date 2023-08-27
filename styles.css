@@ -51,7 +51,7 @@ body
     margin-left: 20%;
     border-radius: 30px;
     border:1px solid black;
-    transition: 0.8s;
+    transition: 0.5s;
 }
 .profile-button:hover
 {
@@ -63,7 +63,7 @@ body
     margin-left: 20%;
     border-radius: 30px;
     border:1px solid white;
-    transition:0.8s;
+    transition:0.5s;
 }
 .profile-button:active
 {
